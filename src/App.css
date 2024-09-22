@@ -1,0 +1,21 @@
+/* src/App.css */
+
+
+
+
+.app-container {
+  padding: 40px 20px; /* Responsive padding */
+  min-height: 100vh; /* Full height */
+  display: flex; /* Flexbox for layout */
+  flex-direction: column; /* Stack items vertically */
+  align-items: center; /* Center items */
+  justify-content: flex-start; /* Center items vertically */
+
+
+}
+
+@media (max-width: 600px) {
+  .app-container {
+    padding: 20px; /* Adjust padding for small screens */
+  }
+}

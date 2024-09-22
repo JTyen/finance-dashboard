@@ -1,0 +1,23 @@
+/* src/styles.css */
+
+/* Reset some default styles */
+body, h1, form, ul, li {
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+   margin: 1px;
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    line-height: 1.6;
+  }
+  
+  h1 {
+    text-align: center;
+    color: #333;
+    margin: 20px 0;
+    
+  }
+  
